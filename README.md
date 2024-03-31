@@ -1,4 +1,7 @@
 # Stoic-DOT
+![STOIC (6)](https://github.com/TheStoicBear/Stoic-DOT/assets/112611821/847105d7-00d5-42a6-9cbb-cfb5f8f7e214)
+
+
 # Management System Resource
 
 ## Description
